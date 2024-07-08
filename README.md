@@ -1,4 +1,4 @@
-# Web Automation on SauceDemo Website with Selenium TestNG
+# Web Automation on BaBylissPRO Website with Selenium TestNG
 
 ## What is Automation?
 
