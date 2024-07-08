@@ -1,0 +1,7 @@
+<suite thread-count="1" verbose="1" name="BaBylissPRO Portal Automation">
+    <test name="User creation and validation">
+        <classes>
+            <class name="runner.TestRunner"/>
+        </classes>
+    </test>
+</suite>
