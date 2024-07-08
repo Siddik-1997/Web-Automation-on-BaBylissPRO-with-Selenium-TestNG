@@ -30,7 +30,7 @@ TestNG is a testing framework for Java that is designed to be more flexible and 
 
 ## Scenerio:
 
-- Login to BaBylissPRO site: https://staging-na-conair.demandware.net/s/us-babylisspro/
+- Visit the BaBylissPRO site: https://staging-na-conair.demandware.net/s/us-babylisspro/
 - Create an account
 - Validate the account
 - Login with that account
